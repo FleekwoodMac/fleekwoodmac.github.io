@@ -49,7 +49,7 @@ function updateTextElement() {
 
     var textElement = document.getElementById('textElement');
 
-    if (parameterValues['hello']) {
+    if (parameterValues['guest']) {
         textElement.textContent = parameterValues['guest'] + " your password is happydev";
     }
 
