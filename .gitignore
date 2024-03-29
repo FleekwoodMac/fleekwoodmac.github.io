@@ -2,6 +2,7 @@
 node_modules/
 .DS_Store
 js/functions.js
+js/functions-old.js
 js/assets/params_old.js
 js/assets/params_test.js
 js/assets/params.js
